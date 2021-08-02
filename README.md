@@ -16,6 +16,8 @@
 [<img align="left" alt="Ognjen Lazic | Google play Store" width="40px" src="https://i.pinimg.com/originals/71/42/62/714262829697e9749a4aa86b3c1f5538.png" />][googleplay]
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools I use:
 
