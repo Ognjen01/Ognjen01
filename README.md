@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ognjenlazic.com" width="40px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />][website]
+[<img align="left" alt="ognjenlazic.com" width="40px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fwebsite-icon&psig=AOvVaw1zqkCyLQ3x-65y0rcEd-gE&ust=1628789261721000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCSjP6-qfICFQAAAAAdAAAAABAD" />][website]
 [<img align="left" alt="Ognjen Lazic | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="Ognjen Lazic | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="Ognjen Lazic | Google play Store" width="40px" src="https://i.pinimg.com/originals/71/42/62/714262829697e9749a4aa86b3c1f5538.png" />][googleplay]
