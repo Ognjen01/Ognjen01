@@ -3,7 +3,7 @@
 
 ## I'm a software and mobile application developer!
 
-- 🔭 I just launched my new mobile app: [Augmented reality Lazic inox][newapp]!
+- 🔭 I just launched my new mobile app: [Planinarska obuka][newapp]!
 - 🌱 I’m currently learning algorythms and data structures 
 - 💻 I’m looking to collaborate with other software developers
 
@@ -42,5 +42,5 @@
 [website]: http://www.ognjenlazic.com
 [instagram]: https://www.instagram.com/ognjenlazic_/
 [linkedin]: https://www.linkedin.com/in/ognjen-lazi%C4%87-2918b71b9/
-[newapp]: https://play.google.com/store/apps/details?id=com.ognjenlazic.lazicinox&hl=en_US&gl=US
+[newapp]: https://play.google.com/store/apps/details?id=com.ognjenlazic.planinarska_obuka&hl=en_US&gl=US
 [googleplay]: https://play.google.com/store/apps/developer?id=Ognjen+Lazi%C4%87&hl=en_US&gl=US
