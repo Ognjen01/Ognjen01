@@ -3,9 +3,9 @@
 
 ## I'm a software and mobile application developer!
 
-- 🔭 I just launched my new mobile app: [Planinarska obuka][newapp]!
-- 🌱 I’m currently learning algorythms and data structures 
-- 💻 I’m looking to collaborate with other software developers
+- 🔭   I just launched my new mobile app: [Planinarska obuka][newapp]!
+- 🌱   I’m currently learning algorythms and data structures 
+- 💻   I’m looking to collaborate with other software developers
 
 
 ### Connect with me:
