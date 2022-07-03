@@ -25,11 +25,6 @@
 <img align="left" alt="Swift" width="35px" src="https://miro.medium.com/max/1138/1*6-G_o5PZSzppyfdLTbFu-A.png" />
 <img align="left" alt="Dart" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 <img align="left" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
-<img align="left" alt="Flutter" width="35px" src="https://regency.capital/wp-content/uploads/2020/04/flutter-logo.png" />
-<img align="left" alt="Xcode" width="35px" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png" />
-<img align="left" alt="Android studio" width="35px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 
 <br />
 <br />
