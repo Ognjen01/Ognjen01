@@ -1,4 +1,4 @@
-### Hi everyone, I'm Ognjen 👋
+## Hi, I'm Ognjen 👋
 
 
-## I'm a software engineer!
+### I'm a software engineer!
