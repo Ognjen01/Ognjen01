@@ -3,21 +3,6 @@
 
 ## I'm a software and mobile application developer!
 
-- 🔭   Take a look on my new mobile app: [Planinarska obuka][newapp]!
-- 🌱   I’m currently learning more about blockchain 
-- 💻   I’m looking to collaborate with other software developers, communities and companies
-
-
-### Connect with me:
-
-<!-- [<img align="left" alt="ognjenlazic.com" width="40px" src="https://icon-library.com/images/www-icon-png/www-icon-png-5.jpg" />][website] -->
-[<img align="left" alt="Ognjen Lazic | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="Ognjen Lazic | Instagram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="Ognjen Lazic | Google play Store" width="40px" src="https://i.pinimg.com/originals/71/42/62/714262829697e9749a4aa86b3c1f5538.png" />][googleplay]
-
-<br />
-<br />
-
 ### Languages and Tools I use:
 
 <img align="left" alt="Java" width="35px" src="https://logoeps.com/wp-content/uploads/2011/06/java-logo-vector.png" />
